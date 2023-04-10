@@ -5,7 +5,7 @@
     width="500"
     height="400"
   />
-  <h1>Hi 👋, I'm Daniel</h1>
+  <h1>Hola 👋, Soy Daniel</h1>
   <h3>
     ¡Hola a todos! Mi nombre es Daniel y me encanta programar. 
     Soy un desarrollador Full Stack y estoy constantemente aprendiendo 
