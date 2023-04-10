@@ -37,7 +37,6 @@ calidad del código y la experiencia del usuario en mis proyectos.
       width="40px"
       height="40px"
     />
-  </div>
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
     alt="CSS"
